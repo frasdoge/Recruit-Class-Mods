@@ -7,7 +7,7 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 # Todo
 - [ ] Add flavour text to selection dialogue
 - [x] [Odinblade classes](https://steamcommunity.com/id/odinblade/myworkshopfiles/?appid=435150)
-- [ ] [Heaphaistos classes](https://steamcommunity.com/profiles/76561198042626600/myworkshopfiles/?appid=435150)
+- [x] [Heaphaistos classes](https://steamcommunity.com/profiles/76561198042626600/myworkshopfiles/?appid=435150)
 - [ ] [Helaene classes](https://steamcommunity.com/id/helaene/myworkshopfiles/?appid=435150)
 - [ ] [The Clans](https://steamcommunity.com/sharedfiles/filedetails/?id=1906635525)
 - [ ] [Venalguard Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1939967949)
@@ -21,4 +21,5 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 
 # Attribution
 - [Divinity: Original Sin 2](http://store.steampowered.com/app/435150/Divinity_Original_Sin_2/), a game by [Larian Studios](http://larian.com/)
+
 
