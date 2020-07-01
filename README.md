@@ -1,7 +1,11 @@
 Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 =======
 
-# Features:
+# Features
+* Allows players to recruit companions with class mod presets.
+
+# Current Classes Implemented
+* All Odinblade classes
 
 # Releases
 * [Steam Workshop]() 
