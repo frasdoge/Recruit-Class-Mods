@@ -81,6 +81,37 @@ DB_ClassMods_Installed("Helaene Valkyrie"  , 78a84dd9-de34-c4c7-47a5-e47bd080ebb
 DB_ClassMods_Installed("Helaene Vampire"   , ba43959a-490b-0846-6630-56a90568b651, "PresetAvailable_HelaeneVampire"   );
 DB_ClassMods_Installed("Helaene Wyldfae"   , 260d1263-4650-51f8-38dc-614f6c9536ed, "PresetAvailable_HelaeneWyldfae"   );
 
+// Feenex Battle Pack
+DB_ClassMods_Presets("SetPreset_ArcaneArcher"  , "Arcane Archer"  );
+DB_ClassMods_Presets("SetPreset_Arcanist"      , "Arcanist"       );
+DB_ClassMods_Presets("SetPreset_Deathknight"   , "Deathknight"    );
+DB_ClassMods_Presets("SetPreset_Druid"         , "Druid"          );
+DB_ClassMods_Presets("SetPreset_EldritchKnight", "Eldritch Knight");
+DB_ClassMods_Presets("SetPreset_Monk"          , "Monk"           );
+DB_ClassMods_Presets("SetPreset_Paladin"       , "Paladin"        );
+DB_ClassMods_Presets("SetPreset_Shaman"        , "Shaman"         );
+
+DB_ClassMods_Installed("Feenex Battle Pack", e533f740-990e-47aa-8ed9-3534f52c4f01, "PresetAvailable_Feenex");
+
+// Feenex Battle Pack Expanded
+DB_ClassMods_Presets("SetPreset_Barbarian"   , "Barbarian"   );
+DB_ClassMods_Presets("SetPreset_Elementist"  , "Elementist"  );
+DB_ClassMods_Presets("SetPreset_Shade"       , "Shade"       );
+DB_ClassMods_Presets("SetPreset_Shadowmancer", "Shadowmancer");
+DB_ClassMods_Presets("SetPreset_Totemancer"  , "Totemancer"  );
+
+DB_ClassMods_Installed("Feenex Battle Pack Expanded", 6f5b4810-bb52-4bff-9eb0-3afcf7856045, "PresetAvailable_FeenexExpanded");
+
+// Feenex Battle Pack Shapeshifting
+DB_ClassMods_Presets("SetPreset_Beastspeaker", "Beastspeaker");
+DB_ClassMods_Presets("SetPreset_Shapeshifter", "Shapeshifter");
+
+DB_ClassMods_Installed("Feenex Battle Pack Shapeshifting", 1cb6dd66-021c-4d69-b78f-7162ffb4e7bf, "PresetAvailable_FeenexShapeshifting");
+
+// LaughingLeader Classes
+DB_ClassMods_Presets("SetPreset_Mimicry", "LLMIME_Mime");
+DB_ClassMods_Installed("LaughingLeader Mimicry", d9cac48f-1294-68f8-dd4d-b5ea38eaf2d6, "PresetAvailable_LaughingLeaderMimicry");
+
 KBSECTION
 
 IF

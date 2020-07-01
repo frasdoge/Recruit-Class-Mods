@@ -36,4 +36,20 @@
 	<content contentuid="h3d0247ecgc26fg4601gb0f0g584546e7b8e1" Source="Helaene Vampire"               >*Say you&apos;re looking for a Vampire.</content>
 	<content contentuid="hecde40a4ga4b9g47dfg9fd5g45e0df8c8b01" Source="Helaene Cryomancer"            >*Say you&apos;re looking for a Cryomancer.</content>
 	<content contentuid="hf69853f1g6577g484bg8af1ge3ca5566aad2" Source="Helaene Priest"                >*Say you&apos;re looking for a Priest.</content>
+	<content contentuid="h9a5cf4bfg6079g428dga6a9g542e9bb4b4b9" Source="Feenex Shapeshifter"           >*Say you&apos;re looking for a Shapeshifter.</content>
+	<content contentuid="haeb53dafgd386g42a4g9b00gdbef71359807" Source="Feenex Battle Pack"            >*Say you&apos;re looking for a Monk.</content>
+	<content contentuid="ha1239879gdaaeg472dg8fc0gb2eac7b25d24" Source="Feenex Expanded"               >*Say you&apos;re looking for a Barbarian.</content>
+	<content contentuid="h5d1bcf89ge120g48acga782gaab52860a010" Source="Feenex Expanded"               >*Say you&apos;re looking for a Shade.</content>
+	<content contentuid="h5835425ag0b28g4439gae3cgb8a841e1fa38" Source="Feenex Expanded"               >*Say you&apos;re looking for an Elementist.&lt;br&gt;</content>
+	<content contentuid="h1eb479ddg2b02g4b5fg8c2cg0444ad60ebbc" Source="Feenex Battle Pack"            >*Say you&apos;re looking for a Paladin.</content>
+	<content contentuid="hd306e3eag194dg4f4fga3b8g95b72c7c0ac7" Source="Feenex Battle Pack"            >*Say you&apos;re looking for a Deathknight.</content>
+	<content contentuid="h36b10b39g5533g489dg9c3bg2226f2753b9c" Source="Feenex Battle Pack"            >*Say you&apos;re looking for a Druid.</content>
+	<content contentuid="h504a88ebg3086g4a59g8089ga7a80f54be13" Source="Feenex Battle Pack"            >*Say you&apos;re looking for a Shaman.</content>
+	<content contentuid="hd781508ag8cedg4893g95d1ga213c22e6114" Source="Feenex Expanded"               >*Say you&apos;re looking for a Totemancer.</content>
+	<content contentuid="h8eded1fbg42afg4d02g98a1g5377b21337ea" Source="Feenex Expanded"               >*Say you&apos;re looking for a Shadowmancer.</content>
+	<content contentuid="h4519c5bcg3279g45f2ga3cege6bb2cf43bf4" Source="Feenex Battle Pack"            >*Say you&apos;re looking for an Arcanist.</content>
+	<content contentuid="h0ed31e1fgd4e5g4dd7ga355g7bd546197fa6" Source="Feenex Shapeshifting"          >*Say you&apos;re looking for a Beastspeaker.</content>
+	<content contentuid="h17ac77c4g2244g429aga195g0abb420e2950" Source="Feenex Battle Pack"            >*Say you&apos;re looking for an Eldritch Knight.</content>
+	<content contentuid="h4dc55e88g3982g49d2gb46eg0ee32bb6ae88" Source="Feenex Battle Pack"            >*Say you&apos;re looking for an Arcane Archer.</content>
+	<content contentuid="h31314c5bg9fc1g4fe6ga488g3abd3f676e05" Source="LaughingLeader Mimicry"        >*Say you&apos;re looking for a Mimic.</content>
 </contentList>
