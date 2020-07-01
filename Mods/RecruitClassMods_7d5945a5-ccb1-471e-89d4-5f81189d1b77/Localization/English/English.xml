@@ -1,28 +1,28 @@
 <contentList>
-	<content contentuid="h16e000a2g7acbg4f28g93fagcfb26f8676cb" Source="Odinblade Pyro"                >*Say you&apos;re looking for a Phoenix.</content>
-	<content contentuid="hac6b87a9g8ab5g481bg9595g6d9a3d4dc9d6" Source="Odinblade Pyro"                >*Say you&apos;re looking for an Arsonist.</content>
-	<content contentuid="h84b36689gde88g4c80ga694g1944ca4ca8dc" Source="Odinblade Pyro"                >*Say you&apos;re looking for a Scorcher.</content>
-	<content contentuid="h73b8b8bagb588g492agbc09g26e891be4db8" Source="Odinblade Pyro"                >*Say you&apos;re looking for an Infernal.</content>
-	<content contentuid="h93166abfga66cg424dg8452ge5a3e80469c0" Source="Odinblade Necro"               >*Say you&apos;re looking for a Deathlord.</content>
-	<content contentuid="h0a0aad5egc90fg4f07gb63bg7820bf0bb65e" Source="Odinblade Necro"               >*Say you&apos;re looking for a Bloodtide.</content>
-	<content contentuid="h84443eceg0b11g4e1fg9b4ag8eb510d75d1b" Source="Odinblade Necro"               >*Say you&apos;re looking for a Hexen.</content>
-	<content contentuid="hd9ea54b9gd537g4d00g9ec2gb8786eb3751f" Source="Odinblade Necro"               >*Say you&apos;re looking for a Gravecaller.</content>
-	<content contentuid="ha6020ce3g00f0g4994gaca5g67fedd1270fb" Source="Odinblade Geo"                 >*Say you&apos;re looking for a Terramancer.</content>
-	<content contentuid="h09fea150g7abdg4779gae96g0c0945ec13a6" Source="Odinblade Geo"                 >*Say you&apos;re looking for a Sentinel.</content>
-	<content contentuid="h6b73a0e0g5b1fg4d0bg8dfbga38145189ce1" Source="Odinblade Geo"                 >*Say you&apos;re looking for a Grovetender.</content>
-	<content contentuid="h5fe34f70g8931g475eg8fb0g5c6e4432d909" Source="Odinblade Geo"                 >*Say you&apos;re looking for a Plague.</content>
-	<content contentuid="h0124ed97g1406g44a1ga5cfg2794c0f7b8e5" Source="Odinblade Aero"                >*Say you&apos;re looking for a Windweaver.</content>
-	<content contentuid="h73a7d298g2d48g4de0ga2d3g764957389f10" Source="Odinblade Aero"                >*Say you&apos;re looking for a Thunderlord.</content>
-	<content contentuid="hf4ed0617g0c89g4d6cg97b8g6af39b704848" Source="Odinblade Aero"                >*Say you&apos;re looking for an Electromancer.</content>
-	<content contentuid="hff5bd9a4g40f9g40bfga2f4g8debaff0eeb0" Source="Odinblade Aero"                >*Say you&apos;re looking for a Tempest.</content>
-	<content contentuid="ha3b0d635g56a2g49abg9c18gedb1b93cc0d9" Source="Odinblade Hydro"               >*Say you&apos;re looking for an Icevein.</content>
-	<content contentuid="h8026e0a1gcb3ag4087ga962g0d4c5ad2807d" Source="Odinblade Hydro"               >*Say you&apos;re looking for an Atlantean.</content>
-	<content contentuid="h948b0dcfg65ddg450fg8ef2g738365a71190" Source="Odinblade Hydro"               >*Say you&apos;re looking for a Tidecaller.</content>
-	<content contentuid="hb186642egbc97g48ddgaf8agc52f8d542e6d" Source="Odinblade Hydro"               >*Say you&apos;re looking for a Frostsworn.</content>
-	<content contentuid="hcd1c6f9cg8908g4eb0g9d63g3069d1c55b96" Source="Odinblade Umbra"               >*Say you&apos;re looking for an Umbra.</content>
-	<content contentuid="h9c1ca86egff71g4742g92begd6a58c87bb11" Source="Odinblade Spectre"             >*Say you&apos;re looking for a Spectre.</content>
-	<content contentuid="hc95e0290ge252g470eg8f46g0b1296e86886" Source="Odinblade Huntsman"            >*Say you&apos;re looking for a Tracker.</content>
-	<content contentuid="hfe6e3615g90a2g490dg8560g07683a10563e" Source="Odinblade Scoundrel"           >*Say you&apos;re looking for a Nightcloak.</content>
+	<content contentuid="h16e000a2g7acbg4f28g93fagcfb26f8676cb" Source="Odinblade Pyro"                >*Say you&apos;re looking for a Phoenix, a flexible support focused on simultaneously buffing allies and debuffing enemies.</content>
+	<content contentuid="hac6b87a9g8ab5g481bg9595g6d9a3d4dc9d6" Source="Odinblade Pyro"                >*Say you&apos;re looking for an Arsonist, a pyromaniac hell-bent on setting the battlefield ablaze.</content>
+	<content contentuid="h84b36689gde88g4c80ga694g1944ca4ca8dc" Source="Odinblade Pyro"                >*Say you&apos;re looking for a Scorcher, a gifted fire mage specialising in devastating damage-over-time effects.</content>
+	<content contentuid="h73b8b8bagb588g492agbc09g26e891be4db8" Source="Odinblade Pyro"                >*Say you&apos;re looking for an Infernal, a bulky hybrid damager with a penchant for pyrokinesis.</content>
+	<content contentuid="h93166abfga66cg424dg8452ge5a3e80469c0" Source="Odinblade Necro"               >*Say you&apos;re looking for a Deathlord, a warrior beyond death who feasts on the life force of others.</content>
+	<content contentuid="h0a0aad5egc90fg4f07gb63bg7820bf0bb65e" Source="Odinblade Necro"               >*Say you&apos;re looking for a Bloodtide, a master of sanguimancy who sacrifices vitality to inflict pain onto others.</content>
+	<content contentuid="h84443eceg0b11g4e1fg9b4ag8eb510d75d1b" Source="Odinblade Necro"               >*Say you&apos;re looking for a Hexen, a witch armed with a plethora of powerful buffs and debuffs.</content>
+	<content contentuid="hd9ea54b9gd537g4d00g9ec2gb8786eb3751f" Source="Odinblade Necro"               >*Say you&apos;re looking for a Gravecaller, a necromancer able to raise the undead to do their bidding.</content>
+	<content contentuid="ha6020ce3g00f0g4994gaca5g67fedd1270fb" Source="Odinblade Geo"                 >*Say you&apos;re looking for a Terramancer, a stone mage able to manipulate the fabric of the earth.</content>
+	<content contentuid="h09fea150g7abdg4779gae96g0c0945ec13a6" Source="Odinblade Geo"                 >*Say you&apos;re looking for a Sentinel, an impenetrable warrior who is tough as steel.</content>
+	<content contentuid="h6b73a0e0g5b1fg4d0bg8dfbga38145189ce1" Source="Odinblade Geo"                 >*Say you&apos;re looking for a Grovetender, a preserver of nature who nourishes allies by commanding plant life.</content>
+	<content contentuid="h5fe34f70g8931g475eg8fb0g5c6e4432d909" Source="Odinblade Geo"                 >*Say you&apos;re looking for a Plague, a wickedly-cruel poison mage excelling in deadly concoctions.</content>
+	<content contentuid="h0124ed97g1406g44a1ga5cfg2794c0f7b8e5" Source="Odinblade Aero"                >*Say you&apos;re looking for a Windweaver, a maestro of the winds who keeps their foes afar.</content>
+	<content contentuid="h73a7d298g2d48g4de0ga2d3g764957389f10" Source="Odinblade Aero"                >*Say you&apos;re looking for a Thunderlord, a warrior blessed with a lightning-charged hammer.</content>
+	<content contentuid="hf4ed0617g0c89g4d6cg97b8g6af39b704848" Source="Odinblade Aero"                >*Say you&apos;re looking for an Electromancer, a maniacal mage able to fork electricity across the battlefield.</content>
+	<content contentuid="hff5bd9a4g40f9g40bfga2f4g8debaff0eeb0" Source="Odinblade Aero"                >*Say you&apos;re looking for a Tempest, a mage able to manipulate the atmosphere to conjure storms and cloud-based surfaces.</content>
+	<content contentuid="ha3b0d635g56a2g49abg9c18gedb1b93cc0d9" Source="Odinblade Hydro"               >*Say you&apos;re looking for an Icevein, a cryomancer who keeps their foes frozen in place.</content>
+	<content contentuid="h8026e0a1gcb3ag4087ga962g0d4c5ad2807d" Source="Odinblade Hydro"               >*Say you&apos;re looking for an Atlantean, a deep sea warrior armed with a water-infused trident.</content>
+	<content contentuid="h948b0dcfg65ddg450fg8ef2g738365a71190" Source="Odinblade Hydro"               >*Say you&apos;re looking for a Tidecaller, a hydro mage gifted with the ability to manipulate the seas.</content>
+	<content contentuid="hb186642egbc97g48ddgaf8agc52f8d542e6d" Source="Odinblade Hydro"               >*Say you&apos;re looking for a Frostsworn, a frost paladin specialising in Magic Armour effects.</content>
+	<content contentuid="hcd1c6f9cg8908g4eb0g9d63g3069d1c55b96" Source="Odinblade Umbra"               >*Say you&apos;re looking for an Umbra, an assassin who switches between damage types to kill their mark.</content>
+	<content contentuid="h9c1ca86egff71g4742g92begd6a58c87bb11" Source="Odinblade Spectre"             >*Say you&apos;re looking for a Spectre, a practioner of forbidden soul magic who blurs the line between life and death.</content>
+	<content contentuid="hc95e0290ge252g470eg8f46g0b1296e86886" Source="Odinblade Huntsman"            >*Say you&apos;re looking for a Tracker, an expert hunter with a trusty Animal Companion by their side.</content>
+	<content contentuid="hfe6e3615g90a2g490dg8560g07683a10563e" Source="Odinblade Scoundrel"           >*Say you&apos;re looking for a Nightcloak, an assassin who dips in and out of visibility to unleash a flurry of deadly strikes.</content>
 	<content contentuid="h900c1cb0g522bg47bfgb899gb1b473d76f4e" Source="Heaphaistos Constellationist"  >*Say you&apos;re looking for a Constellationist.</content>
 	<content contentuid="h25309aa3g4642g4fb4gb1bag38ff3712f8a6" Source="Heaphaistos Astronomer"        >*Say you&apos;re looking for an Astronomer.</content>
 	<content contentuid="h25651c93g1513g4466g8d3dg8c84ee8e0e71" Source="Heaphaistos Beserker"          >*Say you&apos;re looking for a Beserker.</content>
