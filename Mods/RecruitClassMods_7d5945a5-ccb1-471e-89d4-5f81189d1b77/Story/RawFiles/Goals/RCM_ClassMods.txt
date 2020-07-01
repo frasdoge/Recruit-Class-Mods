@@ -41,13 +41,13 @@ DB_ClassMods_Presets("SetPreset_Umbra",          "Umbra"         );
 
 DB_ClassMods_Installed("Odinblade Aero",      961ae59d-2964-46dd-9762-073697915dc2, "PresetAvailable_OdinbladeAero");
 DB_ClassMods_Installed("Odinblade Geo",       ffb501cc-ab6d-46de-be89-732c9e289f3e, "PresetAvailable_OdinbladeGeo");
-DB_ClassMods_Installed("Odinblade Hydro",     b40e443e-badd-4727-82b3-f88a170c4db7, "PresetAvailable_OdinbladeHydro");
+DB_ClassMods_Installed("Odinblade Hydro",     02ca48b9-e4ef-a8e4-91d7-0b9df70bb595, "PresetAvailable_OdinbladeHydro");
 DB_ClassMods_Installed("Odinblade Necro",     8700ba4e-7d4b-40ca-a23f-b43816794957, "PresetAvailable_OdinbladeNecro");
-DB_ClassMods_Installed("Odinblade Pyro",      b40e443e-badd-4727-82b3-f88a170c4db7, "PresetAvailable_OdinbladePyro");
+DB_ClassMods_Installed("Odinblade Pyro",      aab53301-4f38-1d49-91f7-28dfa468084b, "PresetAvailable_OdinbladePyro");
 DB_ClassMods_Installed("Odinblade Scoundrel", 0dc94eaa-688d-4a90-b43b-1a1fb2392f84, "PresetAvailable_OdinbladeScoundrel");
 DB_ClassMods_Installed("Odinblade Huntsman",  7db12ae8-0e96-4050-adb2-06c906897b70, "PresetAvailable_OdinbladeHuntsman");
-DB_ClassMods_Installed("Odinblade Spectre",   eedf7638-36ff-4f26-a50a-076b87d53ba0, "PresetAvailable_OdinbladeSpectre");
-DB_ClassMods_Installed("Odinblade Umbra",     1301db3d-1f54-4e98-9be5-5094030916e4, "PresetAvailable_OdinbladeUmbra");
+DB_ClassMods_Installed("Odinblade Spectre",   e4a5c8ca-7f04-23ab-8115-18161eb702bf, "PresetAvailable_OdinbladeSpectre");
+DB_ClassMods_Installed("Odinblade Umbra",     c22c52be-7a44-1f58-f058-3b359421db05, "PresetAvailable_OdinbladeUmbra");
 
 // Heaphaistos Classes
 
@@ -61,7 +61,26 @@ DB_ClassMods_Installed("Heaphaistos Astronomer",       9691a30c-c822-e0c3-c365-2
 DB_ClassMods_Installed("Heaphaistos Chronomancer",     244a4c62-4587-f828-4732-c106db4ec980, "PresetAvailable_HeaphaistosChronomancer");
 DB_ClassMods_Installed("Heaphaistos Constellationist", 794c3076-8c6b-712f-ffc6-cb726f84e4f1, "PresetAvailable_HeaphaistosConstellationist");
 
+// Helaene Classes
+DB_ClassMods_Presets("SetPreset_Blacksmith", "Blacksmith");
+DB_ClassMods_Presets("SetPreset_Cryomancer", "Cryomancer");
+DB_ClassMods_Presets("SetPreset_Mirage", "Mirage");
+DB_ClassMods_Presets("SetPreset_Priest", "Priest");
+DB_ClassMods_Presets("SetPreset_Succubus", "Succubus");
+DB_ClassMods_Presets("SetPreset_Trickster", "Trickster");
+DB_ClassMods_Presets("SetPreset_Valkyrie", "Valkyrie");
+DB_ClassMods_Presets("SetPreset_Vampire", "Vampire");
+DB_ClassMods_Presets("SetPreset_Wyldfae", "Wyldfae");
 
+DB_ClassMods_Installed("Helaene Blacksmith", faac3525-c5b3-580d-6ef2-ed9797f68fb0, "PresetAvailable_HelaeneBlacksmith");
+DB_ClassMods_Installed("Helaene Cryomancer", 958ef674-66ec-d208-1112-5c62ffbba16b, "PresetAvailable_HelaeneCryomancer");
+DB_ClassMods_Installed("Helaene Mirage",     3a5f27e8-2bb7-a1aa-210d-646fa48a1a98, "PresetAvailable_HelaeneMirage");
+DB_ClassMods_Installed("Helaene Priest",     fd3534f5-99b9-cae1-a458-ecf9f3be5a3c, "PresetAvailable_HelaenePriest");
+DB_ClassMods_Installed("Helaene Succubus",   975c594c-2382-93a0-377a-847775be6c5b, "PresetAvailable_HelaeneSuccubus");
+DB_ClassMods_Installed("Helaene Trickster",  ca9ff65f-b16d-690a-22c5-6c3c31d8e597, "PresetAvailable_HelaeneTrickster");
+DB_ClassMods_Installed("Helaene Valkyrie",   78a84dd9-de34-c4c7-47a5-e47bd080ebb1, "PresetAvailable_HelaeneValkyrie");
+DB_ClassMods_Installed("Helaene Vampire",    ba43959a-490b-0846-6630-56a90568b651, "PresetAvailable_HelaeneVampire");
+DB_ClassMods_Installed("Helaene Wyldfae",    260d1263-4650-51f8-38dc-614f6c9536ed, "PresetAvailable_HelaeneWyldfae");
 
 KBSECTION
 
