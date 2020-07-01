@@ -23,4 +23,8 @@
 	<content contentuid="hb186642egbc97g48ddgaf8agc52f8d542e6d" Source="GEN_CompanionPresetSelector.lsj">*Say you&apos;re looking for a Frostsworn.</content>
 	<content contentuid="hf4ed0617g0c89g4d6cg97b8g6af39b704848" Source="GEN_CompanionPresetSelector.lsj">*Say you&apos;re looking for an Electromancer.</content>
 	<content contentuid="hd9ea54b9gd537g4d00g9ec2gb8786eb3751f" Source="GEN_CompanionPresetSelector.lsj">*Say you&apos;re looking for a Gravecaller.</content>
+	<content contentuid="h900c1cb0g522bg47bfgb899gb1b473d76f4e" Source="GEN_CompanionPresetSelector.lsj">*Say you&apos;re looking for a Constellationist.</content>
+	<content contentuid="h25309aa3g4642g4fb4gb1bag38ff3712f8a6" Source="GEN_CompanionPresetSelector.lsj">*Say you&apos;re looking for an Astronomer.</content>
+	<content contentuid="h25651c93g1513g4466g8d3dg8c84ee8e0e71" Source="GEN_CompanionPresetSelector.lsj">*Say you&apos;re looking for a Beserker.</content>
+	<content contentuid="h8d3c1078g223cg428aga6d0g88012ccfb81a" Source="GEN_CompanionPresetSelector.lsj">*Say you&apos;re looking for a Chronomancer.</content>
 </contentList>
