@@ -9,7 +9,7 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 - [x] [Odinblade classes](https://steamcommunity.com/id/odinblade/myworkshopfiles/?appid=435150)
 - [x] [Heaphaistos classes](https://steamcommunity.com/profiles/76561198042626600/myworkshopfiles/?appid=435150)
 - [x] [Helaene classes](https://steamcommunity.com/id/helaene/myworkshopfiles/?appid=435150)
-- [ ] [Feenex's Battle Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1539526545)
+- [x] [Feenex's Battle Pack + Extension + Shapeshifting](https://steamcommunity.com/sharedfiles/filedetails/?id=1539526545)
 - [ ] [The Clans](https://steamcommunity.com/sharedfiles/filedetails/?id=1906635525)
 - [ ] [Venalguard Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1939967949)
 - [ ] [Gravewalker Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1908225808)
@@ -18,7 +18,7 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 - [ ] [Tundra Knight](https://steamcommunity.com/sharedfiles/filedetails/?id=1968197016)
 - [ ] [Metasourcerer](https://steamcommunity.com/sharedfiles/filedetails/?id=1686100650)
 - [ ] [Plague Doctor](https://steamcommunity.com/sharedfiles/filedetails/?id=1694283380)
-- [ ] [Mimicry](https://steamcommunity.com/sharedfiles/filedetails/?id=1515000128)
+- [x] [Mimicry](https://steamcommunity.com/sharedfiles/filedetails/?id=1515000128)
 - [ ] Other suggested classes
 
 # Releases
