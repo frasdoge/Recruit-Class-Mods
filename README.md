@@ -5,7 +5,7 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 * Allows players to recruit companions with class mod presets in addition to the vanilla classes (Eg. Battlemage / Wayfarer).
 
 # Current Classes Implemented
-* All Odinblade classes
+* All [Odinblade classes](https://steamcommunity.com/id/odinblade/myworkshopfiles/?appid=435150)
 
 # Todo
 * [Heaphaistos classes](https://steamcommunity.com/profiles/76561198042626600/myworkshopfiles/?appid=435150)
