@@ -1,0 +1,110 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+// DB_ClassMods_Presets DialogFlagName PresetName
+
+// Aero
+DB_ClassMods_Presets("SetPreset_Electromancer",  "Electromancer" );
+DB_ClassMods_Presets("SetPreset_Tempest",        "Tempest"       );
+DB_ClassMods_Presets("SetPreset_Thunderlord",    "Thunderlord"   );
+DB_ClassMods_Presets("SetPreset_Windweaver",     "Windweaver"    );
+
+// Geo
+DB_ClassMods_Presets("SetPreset_Grovetender",    "Grovetender"   );
+DB_ClassMods_Presets("SetPreset_Plague",         "Plague"        );
+DB_ClassMods_Presets("SetPreset_Sentinel",       "Sentinel"      );
+DB_ClassMods_Presets("SetPreset_Terramancer",    "Terramancer"   );
+
+// Hydro
+DB_ClassMods_Presets("SetPreset_Atlantean",      "Atlantean"     );
+DB_ClassMods_Presets("SetPreset_Frostsworn",     "Frostsworn"    );
+DB_ClassMods_Presets("SetPreset_Icevein",        "Icevein"       );
+DB_ClassMods_Presets("SetPreset_Tidecaller",     "Tidecaller"    );
+
+// Necro
+DB_ClassMods_Presets("SetPreset_Bloodtide",      "Bloodtide"     );
+DB_ClassMods_Presets("SetPreset_Deathlord",      "Deathlord"     );
+DB_ClassMods_Presets("SetPreset_Gravecaller",    "Gravecaller"   );
+DB_ClassMods_Presets("SetPreset_Hexen",          "Hexen"         );
+
+// Pyro
+DB_ClassMods_Presets("SetPreset_Arsonist",       "Arsonist"      );
+DB_ClassMods_Presets("SetPreset_Infernal",       "Infernal"      );
+DB_ClassMods_Presets("SetPreset_Phoenix",        "Phoenix"       );
+DB_ClassMods_Presets("SetPreset_Scorcher",       "Scorcher"      );
+
+// Scoundrel
+DB_ClassMods_Presets("SetPreset_Nightcloak",     "Nightcloak"    );
+
+// Huntsman
+DB_ClassMods_Presets("SetPreset_Tracker",        "Tracker"       );
+
+// Spectre
+DB_ClassMods_Presets("SetPreset_Spectre",        "Spectre"       );
+
+// Umbra
+DB_ClassMods_Presets("SetPreset_Umbra",          "Umbra"         );
+
+// Supported mods
+
+// ModName, ModUUID, FlagName
+DB_ClassMods_Installed("Odinblade Aero",      961ae59d-2964-46dd-9762-073697915dc2, "PresetAvailable_OdinbladeAero");
+DB_ClassMods_Installed("Odinblade Geo",       ffb501cc-ab6d-46de-be89-732c9e289f3e, "PresetAvailable_OdinbladeGeo");
+DB_ClassMods_Installed("Odinblade Hydro",     b40e443e-badd-4727-82b3-f88a170c4db7, "PresetAvailable_OdinbladeHydro");
+DB_ClassMods_Installed("Odinblade Necro",     8700ba4e-7d4b-40ca-a23f-b43816794957, "PresetAvailable_OdinbladeNecro");
+DB_ClassMods_Installed("Odinblade Pyro",      b40e443e-badd-4727-82b3-f88a170c4db7, "PresetAvailable_OdinbladePyro");
+DB_ClassMods_Installed("Odinblade Scoundrel", 0dc94eaa-688d-4a90-b43b-1a1fb2392f84, "PresetAvailable_OdinbladeScoundrel");
+DB_ClassMods_Installed("Odinblade Huntsman",  7db12ae8-0e96-4050-adb2-06c906897b70, "PresetAvailable_OdinbladeHuntsman");
+DB_ClassMods_Installed("Odinblade Spectre",   eedf7638-36ff-4f26-a50a-076b87d53ba0, "PresetAvailable_OdinbladeSpectre");
+DB_ClassMods_Installed("Odinblade Umbra",     1301db3d-1f54-4e98-9be5-5094030916e4, "PresetAvailable_OdinbladeUmbra");
+
+KBSECTION
+
+IF
+ObjectFlagSet(_FlagName, (CHARACTERGUID)_Player, _)
+AND
+DB_ClassMods_Presets(_FlagName, _Preset)
+// AND
+// GetRegion(_Player, "FJ_FortJoy_Main")
+THEN
+DB_ApplyPreset(_Player, _Preset);
+ObjectClearFlag(_Player, _FlagName);
+// DisplayText(_Player, _Preset);
+
+/*
+IF
+ObjectFlagSet(_FlagName, (CHARACTERGUID)_Player, _)
+AND
+DB_ClassMods_Presets(_FlagName, _Preset)
+AND
+NOT GetRegion(_Player, "FJ_FortJoy_Main")
+THEN
+DB_ApplyPreset(_Player, _Preset);
+ObjectClearFlag(_Player, _FlagName);
+*/
+
+// Determine which mods are installed
+IF
+GameStarted(_, _)
+AND
+DB_ClassMods_Installed(_ModName, _ModUuid, _FlagName)
+AND
+NRD_IsModLoaded(_ModUuid, 1)
+THEN
+GlobalSetFlag(_FlagName);
+// NRD_DebugLog(_ModName);
+
+IF
+GameStarted(_, _)
+AND
+DB_ClassMods_Installed(_ModName, _ModUuid, _FlagName)
+AND
+NRD_IsModLoaded(_ModUuid, 0)
+THEN
+GlobalClearFlag(_FlagName);
+
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"

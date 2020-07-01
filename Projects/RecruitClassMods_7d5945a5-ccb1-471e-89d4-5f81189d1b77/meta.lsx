@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="7d5945a5-ccb1-471e-89d4-5f81189d1b77" type="23" />
+            <attribute id="Name" value="RecruitClassMods" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="1fef565b-1d79-489f-9650-60a0f21d064a" type="23" />
+        </node>
+    </region>
+</save>
