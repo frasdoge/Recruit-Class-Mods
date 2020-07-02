@@ -10,7 +10,7 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 - [x] [Heaphaistos classes](https://steamcommunity.com/profiles/76561198042626600/myworkshopfiles/?appid=435150)
 - [x] [Helaene classes](https://steamcommunity.com/id/helaene/myworkshopfiles/?appid=435150)
 - [x] [Feenex's Battle Pack + Extension + Shapeshifting](https://steamcommunity.com/sharedfiles/filedetails/?id=1539526545)
-- [ ] [Venalguard Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1939967949)
+- [x] [Venalguard Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1939967949)
 - [ ] [Gravewalker Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1908225808)
 - [ ] [Blademaster Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1600860232)
 - [ ] [Duelist Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1655513556)
