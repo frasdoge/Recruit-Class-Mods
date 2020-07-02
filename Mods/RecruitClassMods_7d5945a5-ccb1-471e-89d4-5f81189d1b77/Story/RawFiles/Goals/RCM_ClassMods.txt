@@ -116,6 +116,10 @@ DB_ClassMods_Installed("LaughingLeader Mimicry", d9cac48f-1294-68f8-dd4d-b5ea38e
 DB_ClassMods_Presets("SetPreset_Scourge", "Scourge");
 DB_ClassMods_Installed("Auracheetah Scourge / Plague Doctor", 4fd1a0ba-3ce9-448b-ac8c-da6a14c8a2e5, "PresetAvailable_AuracheetahScourge");
 
+// SirGagz Classes
+DB_ClassMods_Presets("SetPreset_Venalguard", "Venalguard");
+DB_ClassMods_Installed("SirGagz Venalguard", bb9db15d-47e8-4f3f-92e1-82b6ab8b303f, "PresetAvailable_SirGagzVenalguard");
+
 KBSECTION
 
 IF
