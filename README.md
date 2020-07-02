@@ -17,6 +17,7 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 - [x] [Plague Doctor](https://steamcommunity.com/sharedfiles/filedetails/?id=1694283380)
 - [x] [Mimicry](https://steamcommunity.com/sharedfiles/filedetails/?id=1515000128)
 - [ ] Other suggested classes
+- [ ] Add mercenary recruit dialog
 
 # Releases
 * Not yet released
