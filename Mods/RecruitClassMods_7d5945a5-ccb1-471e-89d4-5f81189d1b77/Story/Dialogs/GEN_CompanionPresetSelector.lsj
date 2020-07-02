@@ -1206,7 +1206,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2575;8337"
+													"value": "2575;8556"
 												}
 											},
 											{
@@ -2491,7 +2491,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2575;9213"
+													"value": "2575;9432"
 												}
 											},
 											{
@@ -3222,7 +3222,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;3955.318"
+													"value": "2255;3957"
 												}
 											},
 											{
@@ -3936,7 +3936,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;8337"
+													"value": "2255;8556"
 												}
 											},
 											{
@@ -5683,7 +5683,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;8556"
+													"value": "2255;8775"
 												}
 											},
 											{
@@ -7316,7 +7316,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2575;8775"
+													"value": "2575;8994"
 												}
 											},
 											{
@@ -7522,7 +7522,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;8118"
+													"value": "2255;8337"
 												}
 											},
 											{
@@ -10727,7 +10727,7 @@
 															{
 																"TagText": {
 																	"type": 28,
-																	"value": "*Say you're looking for an Elementist.<br>",
+																	"value": "*Say you're looking for an Elementist.",
 																	"handle": "h5835425ag0b28g4439gae3cgb8a841e1fa38"
 																},
 																"stub": {
@@ -11314,7 +11314,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;8994"
+													"value": "2255;9213"
 												}
 											},
 											{
@@ -20363,6 +20363,258 @@
 								},
 								"UUID": {
 									"type": 22,
+									"value": "cbd238cb-40ad-439a-a05c-f44051a28d44"
+								},
+								"addressedspeaker": {
+									"type": 4,
+									"value": -1
+								},
+								"constructor": {
+									"type": 22,
+									"value": "TagQuestion"
+								},
+								"endnode": {
+									"type": 19,
+									"value": false
+								},
+								"exclusive": {
+									"type": 19,
+									"value": false
+								},
+								"optional": {
+									"type": 19,
+									"value": false
+								},
+								"speaker": {
+									"type": 4,
+									"value": 1
+								},
+								"stub": {
+									"type": 19,
+									"value": true
+								},
+								"transitionmode": {
+									"type": 1,
+									"value": 0
+								},
+								"waittime": {
+									"type": 6,
+									"value": -1.0
+								},
+								"GameData": [
+									{
+										"CameraTarget": {
+											"type": 4,
+											"value": -1
+										},
+										"CustomMovie": {
+											"type": 23,
+											"value": ""
+										},
+										"Emotion": {
+											"type": 23,
+											"value": "Default"
+										},
+										"ExtraWaitTime": {
+											"type": 4,
+											"value": 0
+										},
+										"SoundEvent": {
+											"type": 23,
+											"value": ""
+										},
+										"AiPersonalities": [
+											{}
+										],
+										"MusicInstrumentSounds": [
+											{}
+										],
+										"OriginSound": [
+											{}
+										]
+									}
+								],
+								"TaggedTexts": [
+									{
+										"TaggedText": [
+											{
+												"HasTagRule": {
+													"type": 19,
+													"value": true
+												},
+												"RuleGroup": [
+													{
+														"TagCombineOp": {
+															"type": 1,
+															"value": 0
+														},
+														"Rules": [
+															{}
+														]
+													}
+												],
+												"TagTexts": [
+													{
+														"TagText": [
+															{
+																"TagText": {
+																	"type": 28,
+																	"value": "*Say you're looking for a Scourge.",
+																	"handle": "h820e6dbdga817g4c4cg9a16gf1dea5197c81"
+																},
+																"stub": {
+																	"type": 19,
+																	"value": true
+																}
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								],
+								"Tags": [
+									{}
+								],
+								"checkflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Global"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "PresetAvailable_AuracheetahScourge"
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								],
+								"children": [
+									{
+										"child": [
+											{
+												"UUID": {
+													"type": 22,
+													"value": "a941d7cf-1603-4824-b928-f632525161f4"
+												}
+											}
+										]
+									}
+								],
+								"editorData": [
+									{
+										"data": [
+											{
+												"key": {
+													"type": 22,
+													"value": "ID"
+												},
+												"val": {
+													"type": 23,
+													"value": "N192"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "NodeContext"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "collapsed"
+												},
+												"val": {
+													"type": 23,
+													"value": "False"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "logicalname"
+												},
+												"val": {
+													"type": 23,
+													"value": "Scourge"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "position"
+												},
+												"val": {
+													"type": 23,
+													"value": "2255;7899"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "sourcetemplate"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											}
+										]
+									}
+								],
+								"setflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Character"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "SetPreset_Scourge"
+														},
+														"paramval": {
+															"type": 4,
+															"value": 0
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"ShowOnce": {
+									"type": 19,
+									"value": false
+								},
+								"UUID": {
+									"type": 22,
 									"value": "d3dbd8ae-4b6a-4109-8b4a-6fa988d56134"
 								},
 								"addressedspeaker": {
@@ -21616,7 +21868,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2895;9213"
+													"value": "2895;9432"
 												}
 											},
 											{
@@ -22281,6 +22533,12 @@
 											{
 												"UUID": {
 													"type": 22,
+													"value": "cbd238cb-40ad-439a-a05c-f44051a28d44"
+												}
+											},
+											{
+												"UUID": {
+													"type": 22,
 													"value": "494cd2d0-4321-4e32-83ce-b490bc6113e1"
 												}
 											},
@@ -22573,7 +22831,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;8775"
+													"value": "2255;8994"
 												}
 											},
 											{
@@ -23461,7 +23719,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2895;8337"
+													"value": "2895;8556"
 												}
 											},
 											{
@@ -24950,7 +25208,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;9213"
+													"value": "2255;9432"
 												}
 											},
 											{
@@ -25536,7 +25794,7 @@
 				},
 				"nextNodeId": {
 					"type": 5,
-					"value": 187
+					"value": 192
 				}
 			}
 		}

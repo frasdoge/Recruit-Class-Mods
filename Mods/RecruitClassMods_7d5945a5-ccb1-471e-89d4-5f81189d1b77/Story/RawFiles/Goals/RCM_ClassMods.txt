@@ -112,6 +112,10 @@ DB_ClassMods_Installed("Feenex Battle Pack Shapeshifting", 1cb6dd66-021c-4d69-b7
 DB_ClassMods_Presets("SetPreset_Mimicry", "LLMIME_Mime");
 DB_ClassMods_Installed("LaughingLeader Mimicry", d9cac48f-1294-68f8-dd4d-b5ea38eaf2d6, "PresetAvailable_LaughingLeaderMimicry");
 
+// Auracheetah Classes
+DB_ClassMods_Presets("SetPreset_Scourge", "Scourge");
+DB_ClassMods_Installed("Auracheetah Scourge / Plague Doctor", 4fd1a0ba-3ce9-448b-ac8c-da6a14c8a2e5, "PresetAvailable_AuracheetahScourge");
+
 KBSECTION
 
 IF
