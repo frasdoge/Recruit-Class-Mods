@@ -12,8 +12,8 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 - [x] [Feenex's Battle Pack + Extension + Shapeshifting](https://steamcommunity.com/sharedfiles/filedetails/?id=1539526545)
 - [x] [Venalguard Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1939967949)
 - [x] [Gravewalker Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1908225808)
-- [ ] [Duelist Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1655513556)
-- [ ] [Tundra Knight](https://steamcommunity.com/sharedfiles/filedetails/?id=1968197016)
+- [x] [Duelist Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1655513556)
+- [x] [Tundra Knight](https://steamcommunity.com/sharedfiles/filedetails/?id=1968197016)
 - [x] [Plague Doctor](https://steamcommunity.com/sharedfiles/filedetails/?id=1694283380)
 - [x] [Mimicry](https://steamcommunity.com/sharedfiles/filedetails/?id=1515000128)
 - [ ] Other suggested classes
