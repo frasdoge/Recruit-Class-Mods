@@ -126,6 +126,14 @@ DB_ClassMods_Presets("SetPreset_Gravewalker"     , "Gravewalker"       );
 
 DB_ClassMods_Installed("Malchezzar Gravewalker", 5395e77e-00eb-4b2d-b58b-30098b8d5607, "PresetAvailable_MalchezzarGravewalker");
 
+// Thorstmixx Classes
+DB_ClassMods_Presets("SetPreset_Duelist", "Duelist");
+DB_ClassMods_Installed("Thorstmixx Duelist", 97cdb2d6-ed78-4560-8181-6573c003668c, "PresetAvailable_ThorstmixxDuelist");
+
+// ODViper Classes
+DB_ClassMods_Presets("SetPreset_TundraKnight", "Knight of the Tundra");
+DB_ClassMods_Installed("ODViper Tundra Knight", b123dcf9-3e60-46c8-ba4f-9240aea6fa2f, "PresetAvailable_ODViperTundraKnight");
+
 KBSECTION
 
 IF

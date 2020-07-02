@@ -950,7 +950,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-4584"
+													"value": "2255;-4803"
 												}
 											},
 											{
@@ -1685,7 +1685,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-3927"
+													"value": "2255;-4146"
 												}
 											},
 											{
@@ -2168,7 +2168,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-7212"
+													"value": "2255;-7431"
 												}
 											},
 											{
@@ -2970,7 +2970,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5679"
+													"value": "2255;-5898"
 												}
 											},
 											{
@@ -3222,7 +3222,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5898"
+													"value": "2255;-6117"
 												}
 											},
 											{
@@ -3957,7 +3957,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-6336"
+													"value": "2255;-6555"
 												}
 											},
 											{
@@ -5154,7 +5154,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-2613"
+													"value": "2255;-2832"
 												}
 											},
 											{
@@ -6737,7 +6737,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-3489"
+													"value": "2255;-3708"
 												}
 											},
 											{
@@ -8005,7 +8005,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-2394"
+													"value": "2255;-2613"
 												}
 											},
 											{
@@ -8761,7 +8761,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-6993"
+													"value": "2255;-7212"
 												}
 											},
 											{
@@ -9567,7 +9567,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-2832"
+													"value": "2255;-3051"
 												}
 											},
 											{
@@ -10302,7 +10302,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-6555"
+													"value": "2255;-6774"
 												}
 											},
 											{
@@ -10810,7 +10810,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2575;-3051"
+													"value": "2575;-3270"
 												}
 											},
 											{
@@ -11639,6 +11639,258 @@
 								},
 								"UUID": {
 									"type": 22,
+									"value": "6b8ac566-6138-4b31-b74e-ee557209682f"
+								},
+								"addressedspeaker": {
+									"type": 4,
+									"value": -1
+								},
+								"constructor": {
+									"type": 22,
+									"value": "TagQuestion"
+								},
+								"endnode": {
+									"type": 19,
+									"value": false
+								},
+								"exclusive": {
+									"type": 19,
+									"value": false
+								},
+								"optional": {
+									"type": 19,
+									"value": false
+								},
+								"speaker": {
+									"type": 4,
+									"value": 1
+								},
+								"stub": {
+									"type": 19,
+									"value": true
+								},
+								"transitionmode": {
+									"type": 1,
+									"value": 0
+								},
+								"waittime": {
+									"type": 6,
+									"value": -1.0
+								},
+								"GameData": [
+									{
+										"CameraTarget": {
+											"type": 4,
+											"value": -1
+										},
+										"CustomMovie": {
+											"type": 23,
+											"value": ""
+										},
+										"Emotion": {
+											"type": 23,
+											"value": "Default"
+										},
+										"ExtraWaitTime": {
+											"type": 4,
+											"value": 0
+										},
+										"SoundEvent": {
+											"type": 23,
+											"value": ""
+										},
+										"AiPersonalities": [
+											{}
+										],
+										"MusicInstrumentSounds": [
+											{}
+										],
+										"OriginSound": [
+											{}
+										]
+									}
+								],
+								"TaggedTexts": [
+									{
+										"TaggedText": [
+											{
+												"HasTagRule": {
+													"type": 19,
+													"value": true
+												},
+												"RuleGroup": [
+													{
+														"TagCombineOp": {
+															"type": 1,
+															"value": 0
+														},
+														"Rules": [
+															{}
+														]
+													}
+												],
+												"TagTexts": [
+													{
+														"TagText": [
+															{
+																"TagText": {
+																	"type": 28,
+																	"value": "*Say you're looking for a Knight of the Tundra.",
+																	"handle": "h6f68ccc6g8419g49a2g9394g9a9c254ad577"
+																},
+																"stub": {
+																	"type": 19,
+																	"value": true
+																}
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								],
+								"Tags": [
+									{}
+								],
+								"checkflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Global"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "PresetAvailable_ODViperTundraKnight"
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								],
+								"children": [
+									{
+										"child": [
+											{
+												"UUID": {
+													"type": 22,
+													"value": "a941d7cf-1603-4824-b928-f632525161f4"
+												}
+											}
+										]
+									}
+								],
+								"editorData": [
+									{
+										"data": [
+											{
+												"key": {
+													"type": 22,
+													"value": "ID"
+												},
+												"val": {
+													"type": 23,
+													"value": "N213"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "NodeContext"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "collapsed"
+												},
+												"val": {
+													"type": 23,
+													"value": "False"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "logicalname"
+												},
+												"val": {
+													"type": 23,
+													"value": "Tundra Knight"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "position"
+												},
+												"val": {
+													"type": 23,
+													"value": "2255;-7650"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "sourcetemplate"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											}
+										]
+									}
+								],
+								"setflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Character"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "SetPreset_TundraKnight"
+														},
+														"paramval": {
+															"type": 4,
+															"value": 0
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"ShowOnce": {
+									"type": 19,
+									"value": false
+								},
+								"UUID": {
+									"type": 22,
 									"value": "6d2a132e-aa27-4b07-b0e9-8c482ecf3e7c"
 								},
 								"addressedspeaker": {
@@ -11870,6 +12122,258 @@
 								},
 								"UUID": {
 									"type": 22,
+									"value": "6e4001f2-848e-4eee-8157-d5945f5782c1"
+								},
+								"addressedspeaker": {
+									"type": 4,
+									"value": -1
+								},
+								"constructor": {
+									"type": 22,
+									"value": "TagQuestion"
+								},
+								"endnode": {
+									"type": 19,
+									"value": false
+								},
+								"exclusive": {
+									"type": 19,
+									"value": false
+								},
+								"optional": {
+									"type": 19,
+									"value": false
+								},
+								"speaker": {
+									"type": 4,
+									"value": 1
+								},
+								"stub": {
+									"type": 19,
+									"value": true
+								},
+								"transitionmode": {
+									"type": 1,
+									"value": 0
+								},
+								"waittime": {
+									"type": 6,
+									"value": -1.0
+								},
+								"GameData": [
+									{
+										"CameraTarget": {
+											"type": 4,
+											"value": -1
+										},
+										"CustomMovie": {
+											"type": 23,
+											"value": ""
+										},
+										"Emotion": {
+											"type": 23,
+											"value": "Default"
+										},
+										"ExtraWaitTime": {
+											"type": 4,
+											"value": 0
+										},
+										"SoundEvent": {
+											"type": 23,
+											"value": ""
+										},
+										"AiPersonalities": [
+											{}
+										],
+										"MusicInstrumentSounds": [
+											{}
+										],
+										"OriginSound": [
+											{}
+										]
+									}
+								],
+								"TaggedTexts": [
+									{
+										"TaggedText": [
+											{
+												"HasTagRule": {
+													"type": 19,
+													"value": true
+												},
+												"RuleGroup": [
+													{
+														"TagCombineOp": {
+															"type": 1,
+															"value": 0
+														},
+														"Rules": [
+															{}
+														]
+													}
+												],
+												"TagTexts": [
+													{
+														"TagText": [
+															{
+																"TagText": {
+																	"type": 28,
+																	"value": "*Say you're looking for a Duelist.",
+																	"handle": "haba2479bga968g41ecg9ef0gd66365b6249c"
+																},
+																"stub": {
+																	"type": 19,
+																	"value": true
+																}
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								],
+								"Tags": [
+									{}
+								],
+								"checkflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Global"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "PresetAvailable_ThorstmixxDuelist"
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								],
+								"children": [
+									{
+										"child": [
+											{
+												"UUID": {
+													"type": 22,
+													"value": "a941d7cf-1603-4824-b928-f632525161f4"
+												}
+											}
+										]
+									}
+								],
+								"editorData": [
+									{
+										"data": [
+											{
+												"key": {
+													"type": 22,
+													"value": "ID"
+												},
+												"val": {
+													"type": 23,
+													"value": "N208"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "NodeContext"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "collapsed"
+												},
+												"val": {
+													"type": 23,
+													"value": "False"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "logicalname"
+												},
+												"val": {
+													"type": 23,
+													"value": "Duelist"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "position"
+												},
+												"val": {
+													"type": 23,
+													"value": "2255;-2175"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "sourcetemplate"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											}
+										]
+									}
+								],
+								"setflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Character"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "SetPreset_Duelist"
+														},
+														"paramval": {
+															"type": 4,
+															"value": 0
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"ShowOnce": {
+									"type": 19,
+									"value": false
+								},
+								"UUID": {
+									"type": 22,
 									"value": "70bddd6c-b921-4e4b-a237-74b1e24d95d3"
 								},
 								"addressedspeaker": {
@@ -12070,7 +12574,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-3708"
+													"value": "2255;-3927"
 												}
 											},
 											{
@@ -12322,7 +12826,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-4365"
+													"value": "2255;-4584"
 												}
 											},
 											{
@@ -12800,7 +13304,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2575;-2832"
+													"value": "2575;-3051"
 												}
 											},
 											{
@@ -13027,7 +13531,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-4803"
+													"value": "2255;-5022"
 												}
 											},
 											{
@@ -14237,7 +14741,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5022"
+													"value": "2255;-5241"
 												}
 											},
 											{
@@ -14489,7 +14993,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5241"
+													"value": "2255;-5460"
 												}
 											},
 											{
@@ -15245,7 +15749,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-6117"
+													"value": "2255;-6336"
 												}
 											},
 											{
@@ -16013,6 +16517,12 @@
 								"children": [
 									{
 										"child": [
+											{
+												"UUID": {
+													"type": 22,
+													"value": "6e4001f2-848e-4eee-8157-d5945f5782c1"
+												}
+											},
 											{
 												"UUID": {
 													"type": 22,
@@ -16836,7 +17346,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-3051"
+													"value": "2255;-3270"
 												}
 											},
 											{
@@ -21844,6 +22354,12 @@
 											{
 												"UUID": {
 													"type": 22,
+													"value": "6b8ac566-6138-4b31-b74e-ee557209682f"
+												}
+											},
+											{
+												"UUID": {
+													"type": 22,
 													"value": "19daa107-e1be-4a36-8370-027207678241"
 												}
 											},
@@ -22259,7 +22775,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-4146"
+													"value": "2255;-4365"
 												}
 											},
 											{
@@ -23605,7 +24121,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5460"
+													"value": "2255;-5679"
 												}
 											},
 											{
@@ -25751,7 +26267,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-6774"
+													"value": "2255;-6993"
 												}
 											},
 											{
@@ -26568,7 +27084,7 @@
 				},
 				"nextNodeId": {
 					"type": 5,
-					"value": 203
+					"value": 213
 				}
 			}
 		}
