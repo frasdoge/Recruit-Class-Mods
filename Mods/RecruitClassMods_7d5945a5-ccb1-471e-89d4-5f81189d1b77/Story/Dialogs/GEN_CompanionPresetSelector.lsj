@@ -950,7 +950,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-4365"
+													"value": "2255;-4584"
 												}
 											},
 											{
@@ -1685,7 +1685,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-3708"
+													"value": "2255;-3927"
 												}
 											},
 											{
@@ -1959,6 +1959,258 @@
 								],
 								"setflags": [
 									{}
+								]
+							},
+							{
+								"ShowOnce": {
+									"type": 19,
+									"value": false
+								},
+								"UUID": {
+									"type": 22,
+									"value": "19daa107-e1be-4a36-8370-027207678241"
+								},
+								"addressedspeaker": {
+									"type": 4,
+									"value": -1
+								},
+								"constructor": {
+									"type": 22,
+									"value": "TagQuestion"
+								},
+								"endnode": {
+									"type": 19,
+									"value": false
+								},
+								"exclusive": {
+									"type": 19,
+									"value": false
+								},
+								"optional": {
+									"type": 19,
+									"value": false
+								},
+								"speaker": {
+									"type": 4,
+									"value": 1
+								},
+								"stub": {
+									"type": 19,
+									"value": true
+								},
+								"transitionmode": {
+									"type": 1,
+									"value": 0
+								},
+								"waittime": {
+									"type": 6,
+									"value": -1.0
+								},
+								"GameData": [
+									{
+										"CameraTarget": {
+											"type": 4,
+											"value": -1
+										},
+										"CustomMovie": {
+											"type": 23,
+											"value": ""
+										},
+										"Emotion": {
+											"type": 23,
+											"value": "Default"
+										},
+										"ExtraWaitTime": {
+											"type": 4,
+											"value": 0
+										},
+										"SoundEvent": {
+											"type": 23,
+											"value": ""
+										},
+										"AiPersonalities": [
+											{}
+										],
+										"MusicInstrumentSounds": [
+											{}
+										],
+										"OriginSound": [
+											{}
+										]
+									}
+								],
+								"TaggedTexts": [
+									{
+										"TaggedText": [
+											{
+												"HasTagRule": {
+													"type": 19,
+													"value": true
+												},
+												"RuleGroup": [
+													{
+														"TagCombineOp": {
+															"type": 1,
+															"value": 0
+														},
+														"Rules": [
+															{}
+														]
+													}
+												],
+												"TagTexts": [
+													{
+														"TagText": [
+															{
+																"TagText": {
+																	"type": 28,
+																	"value": "*Say you're looking for a Gravewalker.",
+																	"handle": "hd5a55492gefb2g48dcg990eg26c5da5481e4"
+																},
+																"stub": {
+																	"type": 19,
+																	"value": true
+																}
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								],
+								"Tags": [
+									{}
+								],
+								"checkflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Global"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "PresetAvailable_MalchezzarGravewalker"
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								],
+								"children": [
+									{
+										"child": [
+											{
+												"UUID": {
+													"type": 22,
+													"value": "a941d7cf-1603-4824-b928-f632525161f4"
+												}
+											}
+										]
+									}
+								],
+								"editorData": [
+									{
+										"data": [
+											{
+												"key": {
+													"type": 22,
+													"value": "ID"
+												},
+												"val": {
+													"type": 23,
+													"value": "N203"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "NodeContext"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "collapsed"
+												},
+												"val": {
+													"type": 23,
+													"value": "False"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "logicalname"
+												},
+												"val": {
+													"type": 23,
+													"value": "Gravewalker"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "position"
+												},
+												"val": {
+													"type": 23,
+													"value": "2255;-7212"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "sourcetemplate"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											}
+										]
+									}
+								],
+								"setflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Character"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "SetPreset_Gravewalker"
+														},
+														"paramval": {
+															"type": 4,
+															"value": 0
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
 								]
 							},
 							{
@@ -2718,7 +2970,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5460"
+													"value": "2255;-5679"
 												}
 											},
 											{
@@ -2970,7 +3222,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5679"
+													"value": "2255;-5898"
 												}
 											},
 											{
@@ -3705,7 +3957,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-6117"
+													"value": "2255;-6336"
 												}
 											},
 											{
@@ -4902,7 +5154,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-2394"
+													"value": "2255;-2613"
 												}
 											},
 											{
@@ -6485,7 +6737,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-3270"
+													"value": "2255;-3489"
 												}
 											},
 											{
@@ -7753,7 +8005,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-2175"
+													"value": "2255;-2394"
 												}
 											},
 											{
@@ -8509,7 +8761,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-6774"
+													"value": "2255;-6993"
 												}
 											},
 											{
@@ -9315,7 +9567,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-2613"
+													"value": "2255;-2832"
 												}
 											},
 											{
@@ -10050,7 +10302,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-6336"
+													"value": "2255;-6555"
 												}
 											},
 											{
@@ -10558,7 +10810,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2575;-2832"
+													"value": "2575;-3051"
 												}
 											},
 											{
@@ -11818,7 +12070,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-3489"
+													"value": "2255;-3708"
 												}
 											},
 											{
@@ -12070,7 +12322,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-4146"
+													"value": "2255;-4365"
 												}
 											},
 											{
@@ -12548,7 +12800,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2575;-2613"
+													"value": "2575;-2832"
 												}
 											},
 											{
@@ -12775,7 +13027,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-4584"
+													"value": "2255;-4803"
 												}
 											},
 											{
@@ -13985,7 +14237,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-4803"
+													"value": "2255;-5022"
 												}
 											},
 											{
@@ -14237,7 +14489,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5022"
+													"value": "2255;-5241"
 												}
 											},
 											{
@@ -14993,7 +15245,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5898"
+													"value": "2255;-6117"
 												}
 											},
 											{
@@ -15761,6 +16013,12 @@
 								"children": [
 									{
 										"child": [
+											{
+												"UUID": {
+													"type": 22,
+													"value": "eb688acc-01f5-45e7-8faf-eb373f3e5302"
+												}
+											},
 											{
 												"UUID": {
 													"type": 22,
@@ -16578,7 +16836,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-2832"
+													"value": "2255;-3051"
 												}
 											},
 											{
@@ -21586,6 +21844,12 @@
 											{
 												"UUID": {
 													"type": 22,
+													"value": "19daa107-e1be-4a36-8370-027207678241"
+												}
+											},
+											{
+												"UUID": {
+													"type": 22,
 													"value": "4f6d6f0e-d846-4e0c-a4f4-f28edc3c6bed"
 												}
 											},
@@ -21995,7 +22259,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-3927"
+													"value": "2255;-4146"
 												}
 											},
 											{
@@ -23341,7 +23605,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-5241"
+													"value": "2255;-5460"
 												}
 											},
 											{
@@ -24783,6 +25047,258 @@
 								},
 								"UUID": {
 									"type": 22,
+									"value": "eb688acc-01f5-45e7-8faf-eb373f3e5302"
+								},
+								"addressedspeaker": {
+									"type": 4,
+									"value": -1
+								},
+								"constructor": {
+									"type": 22,
+									"value": "TagQuestion"
+								},
+								"endnode": {
+									"type": 19,
+									"value": false
+								},
+								"exclusive": {
+									"type": 19,
+									"value": false
+								},
+								"optional": {
+									"type": 19,
+									"value": false
+								},
+								"speaker": {
+									"type": 4,
+									"value": 1
+								},
+								"stub": {
+									"type": 19,
+									"value": true
+								},
+								"transitionmode": {
+									"type": 1,
+									"value": 0
+								},
+								"waittime": {
+									"type": 6,
+									"value": -1.0
+								},
+								"GameData": [
+									{
+										"CameraTarget": {
+											"type": 4,
+											"value": -1
+										},
+										"CustomMovie": {
+											"type": 23,
+											"value": ""
+										},
+										"Emotion": {
+											"type": 23,
+											"value": "Default"
+										},
+										"ExtraWaitTime": {
+											"type": 4,
+											"value": 0
+										},
+										"SoundEvent": {
+											"type": 23,
+											"value": ""
+										},
+										"AiPersonalities": [
+											{}
+										],
+										"MusicInstrumentSounds": [
+											{}
+										],
+										"OriginSound": [
+											{}
+										]
+									}
+								],
+								"TaggedTexts": [
+									{
+										"TaggedText": [
+											{
+												"HasTagRule": {
+													"type": 19,
+													"value": true
+												},
+												"RuleGroup": [
+													{
+														"TagCombineOp": {
+															"type": 1,
+															"value": 0
+														},
+														"Rules": [
+															{}
+														]
+													}
+												],
+												"TagTexts": [
+													{
+														"TagText": [
+															{
+																"TagText": {
+																	"type": 28,
+																	"value": "*Say you're looking for a Blade of Galadriel.",
+																	"handle": "h7038243eg4699g4de7gbebdg4909d9b0a376"
+																},
+																"stub": {
+																	"type": 19,
+																	"value": true
+																}
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								],
+								"Tags": [
+									{}
+								],
+								"checkflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Global"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "PresetAvailable_MalchezzarGravewalker"
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								],
+								"children": [
+									{
+										"child": [
+											{
+												"UUID": {
+													"type": 22,
+													"value": "a941d7cf-1603-4824-b928-f632525161f4"
+												}
+											}
+										]
+									}
+								],
+								"editorData": [
+									{
+										"data": [
+											{
+												"key": {
+													"type": 22,
+													"value": "ID"
+												},
+												"val": {
+													"type": 23,
+													"value": "N202"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "NodeContext"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "collapsed"
+												},
+												"val": {
+													"type": 23,
+													"value": "False"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "logicalname"
+												},
+												"val": {
+													"type": 23,
+													"value": "Blade of Galadriel"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "position"
+												},
+												"val": {
+													"type": 23,
+													"value": "2255;-1956"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "sourcetemplate"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											}
+										]
+									}
+								],
+								"setflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Character"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "SetPreset_BladeOfGaladriel"
+														},
+														"paramval": {
+															"type": 4,
+															"value": 0
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"ShowOnce": {
+									"type": 19,
+									"value": false
+								},
+								"UUID": {
+									"type": 22,
 									"value": "f0769ea1-d87d-418f-aca5-be8adc60cc85"
 								},
 								"addressedspeaker": {
@@ -25235,7 +25751,7 @@
 												},
 												"val": {
 													"type": 23,
-													"value": "2255;-6555"
+													"value": "2255;-6774"
 												}
 											},
 											{
@@ -26052,7 +26568,7 @@
 				},
 				"nextNodeId": {
 					"type": 5,
-					"value": 197
+					"value": 203
 				}
 			}
 		}

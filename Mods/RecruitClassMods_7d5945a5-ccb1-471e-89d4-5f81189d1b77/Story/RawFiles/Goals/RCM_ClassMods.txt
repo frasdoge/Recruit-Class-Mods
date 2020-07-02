@@ -120,6 +120,12 @@ DB_ClassMods_Installed("Auracheetah Scourge / Plague Doctor", 4fd1a0ba-3ce9-448b
 DB_ClassMods_Presets("SetPreset_Venalguard", "Venalguard");
 DB_ClassMods_Installed("SirGagz Venalguard", bb9db15d-47e8-4f3f-92e1-82b6ab8b303f, "PresetAvailable_SirGagzVenalguard");
 
+// Malchezarr Classes
+DB_ClassMods_Presets("SetPreset_BladeOfGaladriel", "Blade of Galadriel");
+DB_ClassMods_Presets("SetPreset_Gravewalker"     , "Gravewalker"       );
+
+DB_ClassMods_Installed("Malchezzar Gravewalker", 5395e77e-00eb-4b2d-b58b-30098b8d5607, "PresetAvailable_MalchezzarGravewalker");
+
 KBSECTION
 
 IF
