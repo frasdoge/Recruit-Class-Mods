@@ -5,22 +5,21 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 * Allows players to recruit companions with class mod presets in addition to the vanilla classes (Eg. Battlemage / Wayfarer).
 
 # Todo
-- [x] Add flavour text to all currently implemented dialogs
 - [x] [Odinblade classes](https://steamcommunity.com/id/odinblade/myworkshopfiles/?appid=435150)
 - [x] [Heaphaistos classes](https://steamcommunity.com/profiles/76561198042626600/myworkshopfiles/?appid=435150)
 - [x] [Helaene classes](https://steamcommunity.com/id/helaene/myworkshopfiles/?appid=435150)
-- [x] [Feenex's Battle Pack + Extension + Shapeshifting](https://steamcommunity.com/sharedfiles/filedetails/?id=1539526545)
-- [x] [Venalguard Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1939967949)
+- [x] [Feenex's classes](https://steamcommunity.com/sharedfiles/filedetails/?id=1539526545)
+- [x] [Venalguard](https://steamcommunity.com/sharedfiles/filedetails/?id=1939967949)
 - [x] [Gravewalker Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1908225808)
 - [x] [Duelist Class](https://steamcommunity.com/sharedfiles/filedetails/?id=1655513556)
 - [x] [Tundra Knight](https://steamcommunity.com/sharedfiles/filedetails/?id=1968197016)
 - [x] [Plague Doctor](https://steamcommunity.com/sharedfiles/filedetails/?id=1694283380)
 - [x] [Mimicry](https://steamcommunity.com/sharedfiles/filedetails/?id=1515000128)
+- [ ] [Bard](https://steamcommunity.com/sharedfiles/filedetails/?id=1542350353)
 - [ ] Other suggested classes
-- [ ] Add mercenary recruit dialog
 
 # Releases
-* Not yet released
+* [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2151902287)
 
 # Attribution
 - [Divinity: Original Sin 2](http://store.steampowered.com/app/435150/Divinity_Original_Sin_2/), a game by [Larian Studios](http://larian.com/)
