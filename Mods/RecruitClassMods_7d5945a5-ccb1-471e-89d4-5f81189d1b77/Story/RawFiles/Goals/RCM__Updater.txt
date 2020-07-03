@@ -1,0 +1,200 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+
+// Updates
+IF
+GameStarted(_, _)
+THEN
+ClassMods_Init();
+
+PROC
+ClassMods_Init()
+THEN
+ClassMods_InitOdinblade();
+ClassMods_InitHeaphaistos();
+ClassMods_InitHelaene();
+ClassMods_InitFeenex();
+ClassMods_InitLaughingLeader();
+ClassMods_InitAuraCheetah();
+ClassMods_InitAuraCheetah();
+ClassMods_InitSirGagz();
+ClassMods_InitMalchezzar();
+ClassMods_InitThorstmixx();
+ClassMods_InitODViper();
+ClassMods_InitBaardvaark();
+
+// Odinblade Classes
+PROC
+ClassMods_InitOdinblade()
+THEN
+// Aero
+DB_ClassMods_Presets("SetPreset_Electromancer", "Electromancer");
+DB_ClassMods_Presets("SetPreset_Tempest"      , "Tempest"      );
+DB_ClassMods_Presets("SetPreset_Thunderlord"  , "Thunderlord"  );
+DB_ClassMods_Presets("SetPreset_Windweaver"   , "Windweaver"   );
+// Geo
+DB_ClassMods_Presets("SetPreset_Grovetender"  , "Grovetender"  );
+DB_ClassMods_Presets("SetPreset_Plague"       , "Plague"       );
+DB_ClassMods_Presets("SetPreset_Sentinel"     , "Sentinel"     );
+DB_ClassMods_Presets("SetPreset_Terramancer"  , "Terramancer"  );
+// Hydro
+DB_ClassMods_Presets("SetPreset_Atlantean"    , "Atlantean"    );
+DB_ClassMods_Presets("SetPreset_Frostsworn"   , "Frostsworn"   );
+DB_ClassMods_Presets("SetPreset_Icevein"      , "Icevein"      );
+DB_ClassMods_Presets("SetPreset_Tidecaller"   , "Tidecaller"   );
+// Necro
+DB_ClassMods_Presets("SetPreset_Bloodtide"    , "Bloodtide"   );
+DB_ClassMods_Presets("SetPreset_Deathlord"    , "Deathlord"   );
+DB_ClassMods_Presets("SetPreset_Gravecaller"  , "Gravecaller" );
+DB_ClassMods_Presets("SetPreset_Hexen"        , "Hexen"       );
+// Pyro
+DB_ClassMods_Presets("SetPreset_Arsonist"     , "Arsonist"    );
+DB_ClassMods_Presets("SetPreset_Infernal"     , "Infernal"    );
+DB_ClassMods_Presets("SetPreset_Phoenix"      , "Phoenix"     );
+DB_ClassMods_Presets("SetPreset_Scorcher"     , "Scorcher"    );
+// Scoundrel
+DB_ClassMods_Presets("SetPreset_Nightcloak"   , "Nightcloak"  );
+// Huntsman
+DB_ClassMods_Presets("SetPreset_Tracker"      , "Tracker"     );
+// Spectre
+DB_ClassMods_Presets("SetPreset_Spectre"      , "Spectre"     );
+// Umbra
+DB_ClassMods_Presets("SetPreset_Umbra"        , "Umbra"       );
+
+DB_ClassMods_Installed("Odinblade Aero"     , 961ae59d-2964-46dd-9762-073697915dc2, "PresetAvailable_OdinbladeAero"     );
+DB_ClassMods_Installed("Odinblade Geo"      , ffb501cc-ab6d-46de-be89-732c9e289f3e, "PresetAvailable_OdinbladeGeo"      );
+DB_ClassMods_Installed("Odinblade Hydro"    , 02ca48b9-e4ef-a8e4-91d7-0b9df70bb595, "PresetAvailable_OdinbladeHydro"    );
+DB_ClassMods_Installed("Odinblade Necro"    , 8700ba4e-7d4b-40ca-a23f-b43816794957, "PresetAvailable_OdinbladeNecro"    );
+DB_ClassMods_Installed("Odinblade Pyro"     , aab53301-4f38-1d49-91f7-28dfa468084b, "PresetAvailable_OdinbladePyro"     );
+DB_ClassMods_Installed("Odinblade Scoundrel", 0dc94eaa-688d-4a90-b43b-1a1fb2392f84, "PresetAvailable_OdinbladeScoundrel");
+DB_ClassMods_Installed("Odinblade Huntsman" , 7db12ae8-0e96-4050-adb2-06c906897b70, "PresetAvailable_OdinbladeHuntsman" );
+DB_ClassMods_Installed("Odinblade Spectre"  , e4a5c8ca-7f04-23ab-8115-18161eb702bf, "PresetAvailable_OdinbladeSpectre"  );
+DB_ClassMods_Installed("Odinblade Umbra"    , c22c52be-7a44-1f58-f058-3b359421db05, "PresetAvailable_OdinbladeUmbra"    );
+
+// Heaphaistos Classes
+PROC
+ClassMods_InitHeaphaistos()
+THEN
+DB_ClassMods_Presets("SetPreset_Beserker"        ,  "Berserker"       );
+DB_ClassMods_Presets("SetPreset_Astronomer"      ,  "Astronomer"      );
+DB_ClassMods_Presets("SetPreset_Chronomancer"    ,  "Chronomancer"    );
+DB_ClassMods_Presets("SetPreset_Constellationist",  "Celestial Wizard");
+
+DB_ClassMods_Installed("Heaphaistos Beserker"        , a38e646c-013d-129b-1520-a74315af869a, "PresetAvailable_HeaphaistosBeserker"        );
+DB_ClassMods_Installed("Heaphaistos Astronomer"      , 9691a30c-c822-e0c3-c365-2619662ac3e1, "PresetAvailable_HeaphaistosAstronomer"      );
+DB_ClassMods_Installed("Heaphaistos Chronomancer"    , 244a4c62-4587-f828-4732-c106db4ec980, "PresetAvailable_HeaphaistosChronomancer"    );
+DB_ClassMods_Installed("Heaphaistos Constellationist", 794c3076-8c6b-712f-ffc6-cb726f84e4f1, "PresetAvailable_HeaphaistosConstellationist");
+
+// Helaene Classes
+PROC
+ClassMods_InitHelaene()
+THEN
+DB_ClassMods_Presets("SetPreset_Blacksmith", "Blacksmith");
+DB_ClassMods_Presets("SetPreset_Cryomancer", "Cryomancer");
+DB_ClassMods_Presets("SetPreset_Mirage"    , "Mirage"    );
+DB_ClassMods_Presets("SetPreset_Priest"    , "Priest"    );
+DB_ClassMods_Presets("SetPreset_Succubus"  , "Succubus"  );
+DB_ClassMods_Presets("SetPreset_Trickster" , "Trickster" );
+DB_ClassMods_Presets("SetPreset_Valkyrie"  , "Valkyrie"  );
+DB_ClassMods_Presets("SetPreset_Vampire"   , "Vampire"   );
+DB_ClassMods_Presets("SetPreset_Wyldfae"   , "Wyldfae"   );
+
+DB_ClassMods_Installed("Helaene Blacksmith", faac3525-c5b3-580d-6ef2-ed9797f68fb0, "PresetAvailable_HelaeneBlacksmith");
+DB_ClassMods_Installed("Helaene Cryomancer", 958ef674-66ec-d208-1112-5c62ffbba16b, "PresetAvailable_HelaeneCryomancer");
+DB_ClassMods_Installed("Helaene Mirage"    , 3a5f27e8-2bb7-a1aa-210d-646fa48a1a98, "PresetAvailable_HelaeneMirage"    );
+DB_ClassMods_Installed("Helaene Priest"    , fd3534f5-99b9-cae1-a458-ecf9f3be5a3c, "PresetAvailable_HelaenePriest"    );
+DB_ClassMods_Installed("Helaene Succubus"  , 975c594c-2382-93a0-377a-847775be6c5b, "PresetAvailable_HelaeneSuccubus"  );
+DB_ClassMods_Installed("Helaene Trickster" , ca9ff65f-b16d-690a-22c5-6c3c31d8e597, "PresetAvailable_HelaeneTrickster" );
+DB_ClassMods_Installed("Helaene Valkyrie"  , 78a84dd9-de34-c4c7-47a5-e47bd080ebb1, "PresetAvailable_HelaeneValkyrie"  );
+DB_ClassMods_Installed("Helaene Vampire"   , ba43959a-490b-0846-6630-56a90568b651, "PresetAvailable_HelaeneVampire"   );
+DB_ClassMods_Installed("Helaene Wyldfae"   , 260d1263-4650-51f8-38dc-614f6c9536ed, "PresetAvailable_HelaeneWyldfae"   );
+
+// Feenex Classes
+PROC
+ClassMods_InitFeenex()
+THEN
+// Feenex Battle Pack
+DB_ClassMods_Presets("SetPreset_ArcaneArcher"  , "Arcane Archer"  );
+DB_ClassMods_Presets("SetPreset_Arcanist"      , "Arcanist"       );
+DB_ClassMods_Presets("SetPreset_Deathknight"   , "Deathknight"    );
+DB_ClassMods_Presets("SetPreset_Druid"         , "Druid"          );
+DB_ClassMods_Presets("SetPreset_EldritchKnight", "Eldritch Knight");
+DB_ClassMods_Presets("SetPreset_Monk"          , "Monk"           );
+DB_ClassMods_Presets("SetPreset_Paladin"       , "Paladin"        );
+DB_ClassMods_Presets("SetPreset_Shaman"        , "Shaman"         );
+// Feenex Battle Pack Expanded
+DB_ClassMods_Presets("SetPreset_Barbarian"   , "Barbarian"   );
+DB_ClassMods_Presets("SetPreset_Elementist"  , "Elementist"  );
+DB_ClassMods_Presets("SetPreset_Shade"       , "Shade"       );
+DB_ClassMods_Presets("SetPreset_Shadowmancer", "Shadowmancer");
+DB_ClassMods_Presets("SetPreset_Totemancer"  , "Totemancer"  );
+// Feenex Battle Pack Shapeshifting
+DB_ClassMods_Presets("SetPreset_Beastspeaker", "Beastspeaker");
+DB_ClassMods_Presets("SetPreset_Shapeshifter", "Shapeshifter");
+
+DB_ClassMods_Installed("Feenex Battle Pack", e533f740-990e-47aa-8ed9-3534f52c4f01, "PresetAvailable_Feenex");
+DB_ClassMods_Installed("Feenex Battle Pack Expanded", 6f5b4810-bb52-4bff-9eb0-3afcf7856045, "PresetAvailable_FeenexExpanded");
+DB_ClassMods_Installed("Feenex Battle Pack Shapeshifting", 1cb6dd66-021c-4d69-b78f-7162ffb4e7bf, "PresetAvailable_FeenexShapeshifting");
+
+// LaughingLeader Classes
+PROC
+ClassMods_InitLaughingLeader()
+THEN
+DB_ClassMods_Presets("SetPreset_Mimicry", "LLMIME_Mime");
+DB_ClassMods_Installed("LaughingLeader Mimicry", d9cac48f-1294-68f8-dd4d-b5ea38eaf2d6, "PresetAvailable_LaughingLeaderMimicry");
+
+// Auracheetah Classes
+PROC
+ClassMods_InitAuraCheetah()
+THEN
+DB_ClassMods_Presets("SetPreset_Scourge", "Scourge");
+DB_ClassMods_Installed("Auracheetah Scourge / Plague Doctor", 4fd1a0ba-3ce9-448b-ac8c-da6a14c8a2e5, "PresetAvailable_AuracheetahScourge");
+
+// SirGagz Classes
+PROC
+ClassMods_InitSirGagz()
+THEN
+DB_ClassMods_Presets("SetPreset_Venalguard", "Venalguard");
+DB_ClassMods_Installed("SirGagz Venalguard", bb9db15d-47e8-4f3f-92e1-82b6ab8b303f, "PresetAvailable_SirGagzVenalguard");
+
+// Malchezarr Classes
+PROC
+ClassMods_InitMalchezzar()
+THEN
+DB_ClassMods_Presets("SetPreset_BladeOfGaladriel", "Blade of Galadriel");
+DB_ClassMods_Presets("SetPreset_Gravewalker"     , "Gravewalker"       );
+
+DB_ClassMods_Installed("Malchezzar Gravewalker", 5395e77e-00eb-4b2d-b58b-30098b8d5607, "PresetAvailable_MalchezzarGravewalker");
+
+// Thorstmixx Classes
+PROC
+ClassMods_InitThorstmixx()
+THEN
+DB_ClassMods_Presets("SetPreset_Duelist", "Duelist");
+DB_ClassMods_Installed("Thorstmixx Duelist", 97cdb2d6-ed78-4560-8181-6573c003668c, "PresetAvailable_ThorstmixxDuelist");
+
+// ODViper Classes
+PROC
+ClassMods_InitODViper()
+THEN
+DB_ClassMods_Presets("SetPreset_TundraKnight", "Knight of the Tundra");
+DB_ClassMods_Installed("ODViper Tundra Knight", b123dcf9-3e60-46c8-ba4f-9240aea6fa2f, "PresetAvailable_ODViperTundraKnight");
+
+// Baardvaark Classes
+PROC
+ClassMods_InitBaardvaark()
+THEN
+DB_ClassMods_Presets("SetPreset_Artificer", "Artificer");
+DB_ClassMods_Presets("SetPreset_Bard"     , "Bard"     );
+DB_ClassMods_Presets("SetPreset_Civilian" , "Civilian" );
+DB_ClassMods_Presets("SetPreset_Skald"    , "Skald"    );
+
+DB_ClassMods_Installed("Aardvaark Bard & Other Skills", 485799a0-582c-f36c-c96f-01232a8205c5, "PresetAvailable_BaardvaarkBard");
+
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"
