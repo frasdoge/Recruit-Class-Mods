@@ -145,7 +145,7 @@ DB_ClassMods_Presets(_FlagName, _Preset)
 THEN
 DB_ApplyPreset(_Player, _Preset);
 ObjectClearFlag(_Player, _FlagName);
-DisplayText(_Player, _Preset);
+// DisplayText(_Player, _Preset);
 
 /*
 IF
@@ -170,7 +170,7 @@ AND
 GlobalGetFlag(_FlagName, 0)
 THEN
 GlobalSetFlag(_FlagName);
-NRD_DebugLog(_ModName);
+// NRD_DebugLog(_ModName);
 
 IF
 GameStarted(_, _)
