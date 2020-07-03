@@ -58,8 +58,8 @@
 	<content contentuid="h7038243eg4699g4de7gbebdg4909d9b0a376" Source="Maclhezzar Gravewalker"        >*Say you&apos;re looking for a Blade of Galadriel, an assassin capable of wielding the Light of Galadriel to support allies and devastate enemies.</content>
 	<content contentuid="haba2479bga968g41ecg9ef0gd66365b6249c" Source="Thorstmixx Duelist"            >*Say you&apos;re looking for a Duelist, an honourable swashbuckler with unmatched skill in the blade.</content>
 	<content contentuid="h6f68ccc6g8419g49a2g9394g9a9c254ad577" Source="ODViper Tundra Knight"         >*Say you&apos;re looking for a Knight of the Tundra, a powerful warrior capable of increasing their own strength and controlling the battlefied.</content>
-	<content contentuid="h1af7ef9cgdca2g457bgbc1fgf430bfdf443a" Source="Baardvaark Bard"               >*Say you&apos;re looking for a Bard, a minstrel adept at fortifying allies in battle through wonderous music.</content>
-	<content contentuid="h479e9020g9c54g48f7gab1age70a76aa17ef" Source="Baardvaark Bard"               >*Say you&apos;re looking for an Artificer, a mage capable of channeling magic through various objects to great effect.</content>
-	<content contentuid="h18e02562gdec7g418egb314gebebb44e3c6d" Source="Baardvaark Bard"               >*Say you&apos;re looking for a Civilian to guide you through this world.</content>
-	<content contentuid="hbdac9cd1g1bf2g4b7bgb739g06f00a9230f7" Source="Baardvaark Bard"               >*Say you&apos;re looking for a Skald, a minstrel with a penchant for casting the battlefield into a frenzy with powerful music.</content>
+	<content contentuid="h1af7ef9cgdca2g457bgbc1fgf430bfdf443a" Source="Baardvaark Bard"               >*Say you&apos;re looking for a Bard, an entertainer that enhances their allies through music and boosts morale.</content>
+	<content contentuid="h479e9020g9c54g48f7gab1age70a76aa17ef" Source="Baardvaark Bard"               >*Say you&apos;re looking for an Artificer, a crafty master of knowledge that can put anything at hand to good use.</content>
+	<content contentuid="h18e02562gdec7g418egb314gebebb44e3c6d" Source="Baardvaark Bard"               >*Say you&apos;re looking for a civilian to guide you on your journey.</content>
+	<content contentuid="hbdac9cd1g1bf2g4b7bgb739g06f00a9230f7" Source="Baardvaark Bard"               >*Say you&apos;re looking for a Skald, a malevolent musician that torments their enemies minds and breed chaos on the battlefield.</content>
 </contentList>
