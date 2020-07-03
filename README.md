@@ -15,7 +15,7 @@ Recruit Class Mods for Divinity: Original Sin 2 - Definitive Edition
 - [x] [Tundra Knight](https://steamcommunity.com/sharedfiles/filedetails/?id=1968197016)
 - [x] [Plague Doctor](https://steamcommunity.com/sharedfiles/filedetails/?id=1694283380)
 - [x] [Mimicry](https://steamcommunity.com/sharedfiles/filedetails/?id=1515000128)
-- [ ] [Bard](https://steamcommunity.com/sharedfiles/filedetails/?id=1542350353)
+- [x] [Bard](https://steamcommunity.com/sharedfiles/filedetails/?id=1542350353)
 - [ ] Other suggested classes
 
 # Releases
