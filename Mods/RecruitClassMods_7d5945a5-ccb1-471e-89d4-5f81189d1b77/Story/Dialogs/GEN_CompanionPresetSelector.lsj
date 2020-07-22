@@ -20917,6 +20917,258 @@
 								},
 								"UUID": {
 									"type": 22,
+									"value": "c19aeacb-7c6f-400e-afd7-d0c10072d6d8"
+								},
+								"addressedspeaker": {
+									"type": 4,
+									"value": -1
+								},
+								"constructor": {
+									"type": 22,
+									"value": "TagQuestion"
+								},
+								"endnode": {
+									"type": 19,
+									"value": false
+								},
+								"exclusive": {
+									"type": 19,
+									"value": false
+								},
+								"optional": {
+									"type": 19,
+									"value": false
+								},
+								"speaker": {
+									"type": 4,
+									"value": 1
+								},
+								"stub": {
+									"type": 19,
+									"value": true
+								},
+								"transitionmode": {
+									"type": 1,
+									"value": 0
+								},
+								"waittime": {
+									"type": 6,
+									"value": -1.0
+								},
+								"GameData": [
+									{
+										"CameraTarget": {
+											"type": 4,
+											"value": -1
+										},
+										"CustomMovie": {
+											"type": 23,
+											"value": ""
+										},
+										"Emotion": {
+											"type": 23,
+											"value": "Default"
+										},
+										"ExtraWaitTime": {
+											"type": 4,
+											"value": 0
+										},
+										"SoundEvent": {
+											"type": 23,
+											"value": ""
+										},
+										"AiPersonalities": [
+											{}
+										],
+										"MusicInstrumentSounds": [
+											{}
+										],
+										"OriginSound": [
+											{}
+										]
+									}
+								],
+								"TaggedTexts": [
+									{
+										"TaggedText": [
+											{
+												"HasTagRule": {
+													"type": 19,
+													"value": true
+												},
+												"RuleGroup": [
+													{
+														"TagCombineOp": {
+															"type": 1,
+															"value": 0
+														},
+														"Rules": [
+															{}
+														]
+													}
+												],
+												"TagTexts": [
+													{
+														"TagText": [
+															{
+																"TagText": {
+																	"type": 28,
+																	"value": "*Say you're looking for a Duskblade.",
+																	"handle": "h175c655bgf57bg443fgadb5gd31b3fdae301"
+																},
+																"stub": {
+																	"type": 19,
+																	"value": true
+																}
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								],
+								"Tags": [
+									{}
+								],
+								"checkflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Global"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "PresetAvailable_FeenexDuskblade"
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								],
+								"children": [
+									{
+										"child": [
+											{
+												"UUID": {
+													"type": 22,
+													"value": "a941d7cf-1603-4824-b928-f632525161f4"
+												}
+											}
+										]
+									}
+								],
+								"editorData": [
+									{
+										"data": [
+											{
+												"key": {
+													"type": 22,
+													"value": "ID"
+												},
+												"val": {
+													"type": 23,
+													"value": "N238"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "NodeContext"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "collapsed"
+												},
+												"val": {
+													"type": 23,
+													"value": "False"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "logicalname"
+												},
+												"val": {
+													"type": 23,
+													"value": "Duskblade"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "position"
+												},
+												"val": {
+													"type": 23,
+													"value": "2255;-7869"
+												}
+											},
+											{
+												"key": {
+													"type": 22,
+													"value": "sourcetemplate"
+												},
+												"val": {
+													"type": 23,
+													"value": ""
+												}
+											}
+										]
+									}
+								],
+								"setflags": [
+									{
+										"flaggroup": [
+											{
+												"type": {
+													"type": 22,
+													"value": "Character"
+												},
+												"flag": [
+													{
+														"name": {
+															"type": 22,
+															"value": "SetPreset_Duskblade"
+														},
+														"paramval": {
+															"type": 4,
+															"value": 0
+														},
+														"value": {
+															"type": 19,
+															"value": true
+														}
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"ShowOnce": {
+									"type": 19,
+									"value": false
+								},
+								"UUID": {
+									"type": 22,
 									"value": "c27b5eb5-149b-4132-848c-2a2bc79f2ec7"
 								},
 								"addressedspeaker": {
@@ -23101,6 +23353,12 @@
 								"children": [
 									{
 										"child": [
+											{
+												"UUID": {
+													"type": 22,
+													"value": "c19aeacb-7c6f-400e-afd7-d0c10072d6d8"
+												}
+											},
 											{
 												"UUID": {
 													"type": 22,
@@ -28116,7 +28374,7 @@
 				},
 				"nextNodeId": {
 					"type": 5,
-					"value": 233
+					"value": 238
 				}
 			}
 		}
