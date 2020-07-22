@@ -1,7 +1,9 @@
 .vscode/
+Autosave/
 
 /Mods/RecruitClassMods_7d5945a5-ccb1-471e-89d4-5f81189d1b77/Story/*
 !/Mods/RecruitClassMods_7d5945a5-ccb1-471e-89d4-5f81189d1b77/Story/story_orphanqueries*
 !/Mods/RecruitClassMods_7d5945a5-ccb1-471e-89d4-5f81189d1b77/Story/RawFiles
+!/Mods/RecruitClassMods_7d5945a5-ccb1-471e-89d4-5f81189d1b77/Story/Dialogs
 
 SourceControlGenerator.json
