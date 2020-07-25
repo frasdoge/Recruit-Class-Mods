@@ -101,6 +101,7 @@ DB_ClassMods_Presets("SetPreset_Trickster" , "Trickster" );
 DB_ClassMods_Presets("SetPreset_Valkyrie"  , "Valkyrie"  );
 DB_ClassMods_Presets("SetPreset_Vampire"   , "Vampire"   );
 DB_ClassMods_Presets("SetPreset_Wyldfae"   , "Wyldfae"   );
+DB_ClassMods_Presets("SetPreset_Marauder"  , "Marauder"  );
 
 DB_ClassMods_Installed("Helaene Blacksmith", faac3525-c5b3-580d-6ef2-ed9797f68fb0, "PresetAvailable_HelaeneBlacksmith");
 DB_ClassMods_Installed("Helaene Cryomancer", 958ef674-66ec-d208-1112-5c62ffbba16b, "PresetAvailable_HelaeneCryomancer");
@@ -111,6 +112,7 @@ DB_ClassMods_Installed("Helaene Trickster" , ca9ff65f-b16d-690a-22c5-6c3c31d8e59
 DB_ClassMods_Installed("Helaene Valkyrie"  , 78a84dd9-de34-c4c7-47a5-e47bd080ebb1, "PresetAvailable_HelaeneValkyrie"  );
 DB_ClassMods_Installed("Helaene Vampire"   , ba43959a-490b-0846-6630-56a90568b651, "PresetAvailable_HelaeneVampire"   );
 DB_ClassMods_Installed("Helaene Wyldfae"   , 260d1263-4650-51f8-38dc-614f6c9536ed, "PresetAvailable_HelaeneWyldfae"   );
+DB_ClassMods_Installed("Helaene Marauder"  , 53ed8826-71d6-452a-b9e5-faef35da8628, "PresetAvailable_HelaeneMarauder"  );
 
 // Feenex Classes
 PROC
